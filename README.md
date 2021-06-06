@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=josuhee&fontSize=90)
 ### Hi there 👋
 ![josuhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuhee&show_icons=true&theme=radical)
-![sujo's 42 stats](https://badge42.herokuapp.com/api/stats/sujo)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josuhee" />
+<img align='left' src="https://badge42.herokuapp.com/api/stats/sujo" >
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=josuhee" />
+
 
 <!--
 **josuhee/josuhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
