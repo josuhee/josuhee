@@ -10,7 +10,8 @@
 💬 I am interested in C, C++, Java, Kotlin  
 💬 PS Repositories [Boj](https://github.com/josuhee/Baekjoon), [SW Expert Academy](https://github.com/josuhee/SW_Expert_Academy)
 <br/>  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuhee&layout=compact&theme=nord)](https://github.com/josuhee)
+<br/>  
 [![josuhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuhee)](https://github.com/anuraghazra/github-readme-stats)
 
 
