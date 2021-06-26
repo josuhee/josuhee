@@ -1,27 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=josuhee&fontSize=90)
 ### Hi there 👋, my name is suhee.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:suheeqwe@gmail.com)
-<br/>
+
 <hr/>  
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>  
+<hr/>  
 
-### <center>🛠 Tech Stack 🛠</center>
+💬 I am interested in C, C++, Java, Kotlin 
+<br/>  
+
 [![josuhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuhee)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br/>
 <hr/>  
 
 
-### <center>🚀 42 Seoul 🚀</center>
+<h3 align="center">🚀 42 Seoul 🚀</h3>  
+<hr/>  
+
 ![sujo's 42 stats](https://badge42.herokuapp.com/api/stats/sujo)
 
-<br/>
 <hr/>  
 
 
 
-### <center>🌱 BOJ 🌱</center>
+<h3 align="center">🌱 BOJ 🌱</h3>  
+<hr/>  
+
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=josuhee)
            
 <!--
