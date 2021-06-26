@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=josuhee&fontSize=90)
 ### Hi there 👋
-![josuhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuhee&show_icons=true&theme=radical)
 ![sujo's 42 stats](https://badge42.herokuapp.com/api/stats/sujo)
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=josuhee)
 
