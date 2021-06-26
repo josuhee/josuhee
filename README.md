@@ -7,7 +7,7 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>  
 <hr/>  
 
-💬 I am interested in C, C++, Java, Kotlin 
+💬 I am interested in C, C++, Java, Kotlin  
 💬 PS Repositories [Boj](https://github.com/josuhee/Baekjoon), [SW Expert Academy](https://github.com/josuhee/SW_Expert_Academy)
 <br/>  
 
