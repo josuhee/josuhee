@@ -2,6 +2,9 @@
 ### Hi there 👋, my name is suhee.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:suheeqwe@gmail.com)
 
+
+[![josuhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuhee)](https://github.com/anuraghazra/github-readme-stats)  
+
 <hr/>  
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>  
