@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <h3 align="center">🌱 BOJ 🌱</h3>  
 <hr/>  
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=josuhee)
+[![sujo's 42 stats](https://badge42.vercel.app/api/v2/cl1lxp2cw001109l25u3vsgzq/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 -->
